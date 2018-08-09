@@ -1,6 +1,6 @@
 # indoor-localization
 
-This repo contains the report for the final project/dissertation I completed during the 3rd year of my computer science bachelor's at KCL.
+This repo contains the report (and perhaps the source code, if i ever get around to adding it) for the final project/dissertation I completed during the 3rd year of my computer science bachelor's at KCL.
 
 ## Abstract:
 
