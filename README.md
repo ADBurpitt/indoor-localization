@@ -1,4 +1,4 @@
-# indoor-localization
+# Indoor Localization: Automatic Checkout via Deep Neural Network Based Signatures
 
 This repo contains the report (and perhaps the source code, if i ever get around to adding it) for the final project/dissertation I completed during the 3rd year of my computer science bachelor's at KCL.
 
